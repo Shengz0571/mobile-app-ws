@@ -1,5 +1,7 @@
 package com.shengzhz.app.ws.ui.model.request;
 
+
+// Convert incoming JSON to Java Objects
 public class UserDetailsRequestModel {
 
 	private String firstName;

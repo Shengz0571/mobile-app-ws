@@ -1,5 +1,7 @@
 package com.shengzhz.app.ws.ui.model.response;
 
+
+// Convert Java Objects to JSON
 public class UserRest {
 
 	private String userId;
